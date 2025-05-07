@@ -1,3 +1,3 @@
-openxyl
+openyxl
 pandas
 streamlit
